@@ -11,4 +11,7 @@ Inner join patient_test on patient_test.test_id = tests.test_id
 GROUP BY tests.test_type
 HAVING COUNT(DISTINCT patient_test.patient_id) > 30;
 ```
-| test_type | num_patients | |---| |---| | NGS-panel |           38 | | SNP Array |           39 |
+| test_type | num_patients |
+|---| |---| 
+| NGS-panel |           38 | 
+| SNP Array |           39 |
