@@ -1,5 +1,5 @@
 # pd5201-DATAB-projekt
-database project
+database project 
 
 ## Wyniki zapytań SQL
 
