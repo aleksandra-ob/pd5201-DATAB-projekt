@@ -1,6 +1,8 @@
 # pd5201-DATAB-projekt
 database project
 
+## Wyniki zapytań SQL
+
 ### Zapytanie 4ii: Rodzaje i ilość testów w których uczestniczyło powyżej 30 pacjentów
 **Zapytanie:**
 ```sql
